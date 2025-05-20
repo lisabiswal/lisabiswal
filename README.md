@@ -32,10 +32,6 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisabiswal&show_icons=true&count_private=true&theme=radical" alt="Lisa's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisabiswal&theme=radical" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisabiswal&layout=compact&theme=radical" />
