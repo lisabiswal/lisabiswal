@@ -56,11 +56,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://your-portfolio-link.com" target="_blank">
+      <a href="https://monalisa-biswal-portfolio.netlify.app/" target="_blank">
         <img src="https://github.com/user-attachments/assets/29aff704-9979-4d8e-8ab6-1aaa23871c24" alt="Lisa Portfolio" width="300px" />
       </a>
       <br/>
-      <a href="https://monalisa-frontend-developer-portfolio.netlify.app/" target="_blank">
+      <a href="https://monalisa-biswal-portfolio.netlify.app/" target="_blank">
         <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoCo" />
       </a>
     </td>
