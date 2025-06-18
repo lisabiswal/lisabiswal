@@ -57,7 +57,7 @@
   <tr>
     <td align="center">
       <a href="https://monalisa-biswal-portfolio.netlify.app/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/29aff704-9979-4d8e-8ab6-1aaa23871c24" alt="Lisa Portfolio" width="300px" />
+        <img src="https://github.com/user-attachments/assets/96599738-9ef4-421a-91db-7541103b30b0" alt="Lisa Portfolio" width="300px" />
       </a>
       <br/>
       <a href="https://monalisa-biswal-portfolio.netlify.app/" target="_blank">
